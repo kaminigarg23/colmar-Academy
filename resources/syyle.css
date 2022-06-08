@@ -1,10 +1,22 @@
-.container{
-    margin-top: 32px;
-    margin-bottom: 32px;
+
+
+#1c{
+ margin-left: 24px !important;
+ margin-top: 32px;
+ margin-right: 24px !important;
+ 
 }
 
-.body
-{
-    margin-left: 24px;
-    margin-right: 24px;
+#infoimage{
+
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+    margin:auto !important;
+}
+.navbar{
+    height: 64px;
+}
+
+#info{
+margin: 24px;
 }
